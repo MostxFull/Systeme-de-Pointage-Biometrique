@@ -54,7 +54,7 @@ graph TD
 
 ## 🛠️ Technologies utilisées
 
-- 💻 WinForms (.NET Framework)
+- 💻 WinForms (.NET 8.0)
 - 🛢️ SQL Server 
 - 🧰 SDK ZKTeco (CZKEM)
 - 📦 Dapper (accès base de données léger)
