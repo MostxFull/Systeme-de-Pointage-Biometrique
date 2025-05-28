@@ -43,11 +43,6 @@ graph TD
     Services --> Models
     Services --> DAL
     Models --> DAL
-
-    style UI fill:#cce5ff,stroke:#3399ff,stroke-width:2px
-    style Services fill:#e6ffe6,stroke:#33cc33,stroke-width:2px
-    style Models fill:#fff3cd,stroke:#ffcc00,stroke-width:2px
-    style DAL fill:#f8d7da,stroke:#dc3545,stroke-width:2px
 ```
 
 ## ✅ Fonctionnalités
@@ -60,21 +55,24 @@ graph TD
 ## 🛠️ Technologies utilisées
 
 - 💻 WinForms (.NET Framework)
-- 🛢️ SQL Server (ou SQLite)
+- 🛢️ SQL Server 
 - 🧰 SDK ZKTeco (CZKEM)
 - 📦 Dapper (accès base de données léger)
-- 📄 ClosedXML, QuestPDF (exports Excel et PDF)
+- 📄 ClosedXML (exports Excel)
 
 ## 🚀 Lancement
 
 1. Ouvrir la solution dans **Visual Studio**.
 2. Configurer la chaîne de connexion SQL dans `DatabaseHelper.cs`.
 3. S'assurer que les DLLs du SDK **ZKTeco** sont présentes (`zkemkeeper.dll`).
-4. Exécuter le projet (`F5`).
 
 ## 📷 Capture d'écran
 
-> *(Ajouter ici une ou deux images montrant l'application en fonctionnement)*
+- 💻 Main Form:
+![i1](https://github.com/user-attachments/assets/c8738ef0-5004-44d7-a144-ffa8e22b99c0)
+- 💻 Collecting Attendance Form:
+![i11](https://github.com/user-attachments/assets/304c00a4-5e09-411f-b52e-11405463f17b)
+
 
 ## 🤝 Auteurs
 
