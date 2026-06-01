@@ -1,0 +1,264 @@
+C:\Users\amost\OneDrive\Bureau\BiometricApp\BiometricApp\BiometricApp\bin\Debug\net8.0-windows\BiometricApp.exe
+C:\Users\amost\OneDrive\Bureau\BiometricApp\BiometricApp\BiometricApp\bin\Debug\net8.0-windows\BiometricApp.deps.json
+C:\Users\amost\OneDrive\Bureau\BiometricApp\BiometricApp\BiometricApp\bin\Debug\net8.0-windows\BiometricApp.runtimeconfig.json
+C:\Users\amost\OneDrive\Bureau\BiometricApp\BiometricApp\BiometricApp\bin\Debug\net8.0-windows\BiometricApp.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp\BiometricApp\BiometricApp\bin\Debug\net8.0-windows\BiometricApp.pdb
+C:\Users\amost\OneDrive\Bureau\BiometricApp\BiometricApp\BiometricApp\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp\BiometricApp\BiometricApp\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp\BiometricApp\BiometricApp\bin\Debug\net8.0-windows\Dapper.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp\BiometricApp\BiometricApp\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp\BiometricApp\BiometricApp\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp\BiometricApp\BiometricApp\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp\BiometricApp\BiometricApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp\BiometricApp\BiometricApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp\BiometricApp\BiometricApp\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp\BiometricApp\BiometricApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp\BiometricApp\BiometricApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp\BiometricApp\BiometricApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp\BiometricApp\BiometricApp\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp\BiometricApp\BiometricApp\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp\BiometricApp\BiometricApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp\BiometricApp\BiometricApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp\BiometricApp\BiometricApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp\BiometricApp\BiometricApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp\BiometricApp\BiometricApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp\BiometricApp\BiometricApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp\BiometricApp\BiometricApp\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp\BiometricApp\BiometricApp\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp\BiometricApp\BiometricApp\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp\BiometricApp\BiometricApp\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp\BiometricApp\BiometricApp\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp\BiometricApp\BiometricApp\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp\BiometricApp\BiometricApp\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp\BiometricApp\BiometricApp\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp\BiometricApp\BiometricApp\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp\BiometricApp\BiometricApp\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp\BiometricApp\BiometricApp\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp\BiometricApp\BiometricApp\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp\BiometricApp\BiometricApp\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp\BiometricApp\BiometricApp\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp\BiometricApp\BiometricApp\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp\BiometricApp\BiometricApp\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp\BiometricApp\BiometricApp\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp\BiometricApp\BiometricApp\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp\BiometricApp\BiometricApp\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp\BiometricApp\BiometricApp\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp\BiometricApp\BiometricApp\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp\BiometricApp\BiometricApp\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp\BiometricApp\BiometricApp\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp\BiometricApp\BiometricApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp\BiometricApp\BiometricApp\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp\BiometricApp\BiometricApp\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp\BiometricApp\BiometricApp\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp\BiometricApp\BiometricApp\obj\Debug\net8.0-windows\BiometricApp.csproj.AssemblyReference.cache
+C:\Users\amost\OneDrive\Bureau\BiometricApp\BiometricApp\BiometricApp\obj\Debug\net8.0-windows\HRSchedulingSystem.Forms.AssignProgrammeForm.resources
+C:\Users\amost\OneDrive\Bureau\BiometricApp\BiometricApp\BiometricApp\obj\Debug\net8.0-windows\HRSchedulingSystem.Forms.ServiceForm.resources
+C:\Users\amost\OneDrive\Bureau\BiometricApp\BiometricApp\BiometricApp\obj\Debug\net8.0-windows\HRSchedulingSystem.MainForm.resources
+C:\Users\amost\OneDrive\Bureau\BiometricApp\BiometricApp\BiometricApp\obj\Debug\net8.0-windows\BiometricApp.csproj.GenerateResource.cache
+C:\Users\amost\OneDrive\Bureau\BiometricApp\BiometricApp\BiometricApp\obj\Debug\net8.0-windows\BiometricApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amost\OneDrive\Bureau\BiometricApp\BiometricApp\BiometricApp\obj\Debug\net8.0-windows\BiometricApp.AssemblyInfoInputs.cache
+C:\Users\amost\OneDrive\Bureau\BiometricApp\BiometricApp\BiometricApp\obj\Debug\net8.0-windows\BiometricApp.AssemblyInfo.cs
+C:\Users\amost\OneDrive\Bureau\BiometricApp\BiometricApp\BiometricApp\obj\Debug\net8.0-windows\BiometricApp.csproj.CoreCompileInputs.cache
+C:\Users\amost\OneDrive\Bureau\BiometricApp\BiometricApp\BiometricApp\obj\Debug\net8.0-windows\Biometri.139B0FD5.Up2Date
+C:\Users\amost\OneDrive\Bureau\BiometricApp\BiometricApp\BiometricApp\obj\Debug\net8.0-windows\BiometricApp.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp\BiometricApp\BiometricApp\obj\Debug\net8.0-windows\refint\BiometricApp.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp\BiometricApp\BiometricApp\obj\Debug\net8.0-windows\BiometricApp.pdb
+C:\Users\amost\OneDrive\Bureau\BiometricApp\BiometricApp\BiometricApp\obj\Debug\net8.0-windows\BiometricApp.genruntimeconfig.cache
+C:\Users\amost\OneDrive\Bureau\BiometricApp\BiometricApp\BiometricApp\obj\Debug\net8.0-windows\ref\BiometricApp.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp\BiometricApp\BiometricApp\obj\Debug\net8.0-windows\HRSchedulingSystem.Forms.EmployeeForm.resources
+C:\Users\amost\OneDrive\Bureau\BiometricApp\BiometricApp\BiometricApp\obj\Debug\net8.0-windows\HRSchedulingSystem.Forms.ProgrammeForm.resources
+C:\Users\amost\OneDrive\Bureau\BiometricApp\BiometricApp\BiometricApp\obj\Debug\net8.0-windows\HRSchedulingSystem.Forms.AbsenceForm.resources
+C:\Users\amost\OneDrive\Bureau\BiometricApp\BiometricApp\BiometricApp\obj\Debug\net8.0-windows\HRSchedulingSystem.Forms.DepartementForm.resources
+C:\Users\amost\OneDrive\Bureau\BiometricApp\BiometricApp\BiometricApp\obj\Debug\net8.0-windows\HRSchedulingSystem.Forms.ShiftForm.resources
+C:\Users\amost\OneDrive\Bureau\BiometricApp\BiometricApp\BiometricApp\obj\Debug\net8.0-windows\HRSchedulingSystem.Forms.SocieteForm.resources
+C:\Users\amost\OneDrive\Bureau\BiometricApp\BiometricApp\BiometricApp\obj\Debug\net8.0-windows\HRSchedulingSystem.Forms.ViewScheduleForm.resources
+C:\Users\amost\OneDrive\Bureau\BiometricApp - Copie\BiometricApp\obj\Debug\net8.0-windows\BiometricApp.csproj.AssemblyReference.cache
+C:\Users\amost\OneDrive\Bureau\BiometricApp - Copie\BiometricApp\obj\Debug\net8.0-windows\Interop.zkemkeeper.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp - Copie\BiometricApp\obj\Debug\net8.0-windows\BiometricApp.csproj.ResolveComReference.cache
+C:\Users\amost\OneDrive\Bureau\BiometricApp - Copie\BiometricApp\obj\Debug\net8.0-windows\HRSchedulingSystem.Forms.AbsenceForm.resources
+C:\Users\amost\OneDrive\Bureau\BiometricApp - Copie\BiometricApp\obj\Debug\net8.0-windows\HRSchedulingSystem.Forms.AddDeviceForm.resources
+C:\Users\amost\OneDrive\Bureau\BiometricApp - Copie\BiometricApp\obj\Debug\net8.0-windows\HRSchedulingSystem.Forms.AssignProgrammeForm.resources
+C:\Users\amost\OneDrive\Bureau\BiometricApp - Copie\BiometricApp\obj\Debug\net8.0-windows\HRSchedulingSystem.Forms.AttendanceCollectionForm.resources
+C:\Users\amost\OneDrive\Bureau\BiometricApp - Copie\BiometricApp\obj\Debug\net8.0-windows\HRSchedulingSystem.Forms.DepartementForm.resources
+C:\Users\amost\OneDrive\Bureau\BiometricApp - Copie\BiometricApp\obj\Debug\net8.0-windows\HRSchedulingSystem.Forms.EmployeeForm.resources
+C:\Users\amost\OneDrive\Bureau\BiometricApp - Copie\BiometricApp\obj\Debug\net8.0-windows\HRSchedulingSystem.Forms.ProgrammeForm.resources
+C:\Users\amost\OneDrive\Bureau\BiometricApp - Copie\BiometricApp\obj\Debug\net8.0-windows\HRSchedulingSystem.Forms.ServiceForm.resources
+C:\Users\amost\OneDrive\Bureau\BiometricApp - Copie\BiometricApp\obj\Debug\net8.0-windows\HRSchedulingSystem.Forms.ShiftForm.resources
+C:\Users\amost\OneDrive\Bureau\BiometricApp - Copie\BiometricApp\obj\Debug\net8.0-windows\HRSchedulingSystem.Forms.SocieteForm.resources
+C:\Users\amost\OneDrive\Bureau\BiometricApp - Copie\BiometricApp\obj\Debug\net8.0-windows\HRSchedulingSystem.Forms.ViewScheduleForm.resources
+C:\Users\amost\OneDrive\Bureau\BiometricApp - Copie\BiometricApp\obj\Debug\net8.0-windows\HRSchedulingSystem.MainForm.resources
+C:\Users\amost\OneDrive\Bureau\BiometricApp - Copie\BiometricApp\obj\Debug\net8.0-windows\BiometricApp.csproj.GenerateResource.cache
+C:\Users\amost\OneDrive\Bureau\BiometricApp - Copie\BiometricApp\obj\Debug\net8.0-windows\BiometricApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amost\OneDrive\Bureau\BiometricApp - Copie\BiometricApp\obj\Debug\net8.0-windows\BiometricApp.AssemblyInfoInputs.cache
+C:\Users\amost\OneDrive\Bureau\BiometricApp - Copie\BiometricApp\obj\Debug\net8.0-windows\BiometricApp.AssemblyInfo.cs
+C:\Users\amost\OneDrive\Bureau\BiometricApp - Copie\BiometricApp\obj\Debug\net8.0-windows\BiometricApp.csproj.CoreCompileInputs.cache
+C:\Users\amost\OneDrive\Bureau\BiometricApp - Copie\BiometricApp\obj\Debug\net8.0-windows\BiometricApp.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp - Copie\BiometricApp\obj\Debug\net8.0-windows\refint\BiometricApp.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp - Copie\BiometricApp\obj\Debug\net8.0-windows\BiometricApp.pdb
+C:\Users\amost\OneDrive\Bureau\BiometricApp - Copie\BiometricApp\bin\Debug\net8.0-windows\BiometricApp.exe
+C:\Users\amost\OneDrive\Bureau\BiometricApp - Copie\BiometricApp\bin\Debug\net8.0-windows\BiometricApp.deps.json
+C:\Users\amost\OneDrive\Bureau\BiometricApp - Copie\BiometricApp\bin\Debug\net8.0-windows\BiometricApp.runtimeconfig.json
+C:\Users\amost\OneDrive\Bureau\BiometricApp - Copie\BiometricApp\bin\Debug\net8.0-windows\BiometricApp.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp - Copie\BiometricApp\bin\Debug\net8.0-windows\BiometricApp.pdb
+C:\Users\amost\OneDrive\Bureau\BiometricApp - Copie\BiometricApp\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp - Copie\BiometricApp\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp - Copie\BiometricApp\bin\Debug\net8.0-windows\Dapper.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp - Copie\BiometricApp\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp - Copie\BiometricApp\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp - Copie\BiometricApp\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp - Copie\BiometricApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp - Copie\BiometricApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp - Copie\BiometricApp\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp - Copie\BiometricApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp - Copie\BiometricApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp - Copie\BiometricApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp - Copie\BiometricApp\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp - Copie\BiometricApp\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp - Copie\BiometricApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp - Copie\BiometricApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp - Copie\BiometricApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp - Copie\BiometricApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp - Copie\BiometricApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp - Copie\BiometricApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp - Copie\BiometricApp\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp - Copie\BiometricApp\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp - Copie\BiometricApp\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp - Copie\BiometricApp\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp - Copie\BiometricApp\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp - Copie\BiometricApp\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp - Copie\BiometricApp\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp - Copie\BiometricApp\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp - Copie\BiometricApp\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp - Copie\BiometricApp\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp - Copie\BiometricApp\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp - Copie\BiometricApp\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp - Copie\BiometricApp\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp - Copie\BiometricApp\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp - Copie\BiometricApp\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp - Copie\BiometricApp\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp - Copie\BiometricApp\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp - Copie\BiometricApp\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp - Copie\BiometricApp\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp - Copie\BiometricApp\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp - Copie\BiometricApp\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp - Copie\BiometricApp\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp - Copie\BiometricApp\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp - Copie\BiometricApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp - Copie\BiometricApp\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp - Copie\BiometricApp\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp - Copie\BiometricApp\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp - Copie\BiometricApp\obj\Debug\net8.0-windows\Biometri.139B0FD5.Up2Date
+C:\Users\amost\OneDrive\Bureau\BiometricApp - Copie\BiometricApp\obj\Debug\net8.0-windows\BiometricApp.genruntimeconfig.cache
+C:\Users\amost\OneDrive\Bureau\BiometricApp - Copie\BiometricApp\obj\Debug\net8.0-windows\ref\BiometricApp.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp2\BiometricApp\bin\Debug\net8.0-windows\BiometricApp.exe
+C:\Users\amost\OneDrive\Bureau\BiometricApp2\BiometricApp\bin\Debug\net8.0-windows\BiometricApp.deps.json
+C:\Users\amost\OneDrive\Bureau\BiometricApp2\BiometricApp\bin\Debug\net8.0-windows\BiometricApp.runtimeconfig.json
+C:\Users\amost\OneDrive\Bureau\BiometricApp2\BiometricApp\bin\Debug\net8.0-windows\BiometricApp.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp2\BiometricApp\bin\Debug\net8.0-windows\BiometricApp.pdb
+C:\Users\amost\OneDrive\Bureau\BiometricApp2\BiometricApp\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp2\BiometricApp\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp2\BiometricApp\bin\Debug\net8.0-windows\Dapper.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp2\BiometricApp\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp2\BiometricApp\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp2\BiometricApp\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp2\BiometricApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp2\BiometricApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp2\BiometricApp\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp2\BiometricApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp2\BiometricApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp2\BiometricApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp2\BiometricApp\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp2\BiometricApp\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp2\BiometricApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp2\BiometricApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp2\BiometricApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp2\BiometricApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp2\BiometricApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp2\BiometricApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp2\BiometricApp\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp2\BiometricApp\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp2\BiometricApp\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp2\BiometricApp\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp2\BiometricApp\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp2\BiometricApp\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp2\BiometricApp\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp2\BiometricApp\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp2\BiometricApp\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp2\BiometricApp\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp2\BiometricApp\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp2\BiometricApp\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp2\BiometricApp\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp2\BiometricApp\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp2\BiometricApp\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp2\BiometricApp\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp2\BiometricApp\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp2\BiometricApp\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp2\BiometricApp\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp2\BiometricApp\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp2\BiometricApp\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp2\BiometricApp\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp2\BiometricApp\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp2\BiometricApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp2\BiometricApp\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp2\BiometricApp\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp2\BiometricApp\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp2\BiometricApp\obj\Debug\net8.0-windows\BiometricApp.csproj.AssemblyReference.cache
+C:\Users\amost\OneDrive\Bureau\BiometricApp2\BiometricApp\obj\Debug\net8.0-windows\Interop.zkemkeeper.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp2\BiometricApp\obj\Debug\net8.0-windows\BiometricApp.csproj.ResolveComReference.cache
+C:\Users\amost\OneDrive\Bureau\BiometricApp2\BiometricApp\obj\Debug\net8.0-windows\HRSchedulingSystem.Forms.AbsenceForm.resources
+C:\Users\amost\OneDrive\Bureau\BiometricApp2\BiometricApp\obj\Debug\net8.0-windows\HRSchedulingSystem.Forms.AddDeviceForm.resources
+C:\Users\amost\OneDrive\Bureau\BiometricApp2\BiometricApp\obj\Debug\net8.0-windows\HRSchedulingSystem.Forms.AssignProgrammeForm.resources
+C:\Users\amost\OneDrive\Bureau\BiometricApp2\BiometricApp\obj\Debug\net8.0-windows\HRSchedulingSystem.Forms.AttendanceCollectionForm.resources
+C:\Users\amost\OneDrive\Bureau\BiometricApp2\BiometricApp\obj\Debug\net8.0-windows\HRSchedulingSystem.Forms.DepartementForm.resources
+C:\Users\amost\OneDrive\Bureau\BiometricApp2\BiometricApp\obj\Debug\net8.0-windows\HRSchedulingSystem.Forms.EmployeeForm.resources
+C:\Users\amost\OneDrive\Bureau\BiometricApp2\BiometricApp\obj\Debug\net8.0-windows\HRSchedulingSystem.Forms.ProgrammeForm.resources
+C:\Users\amost\OneDrive\Bureau\BiometricApp2\BiometricApp\obj\Debug\net8.0-windows\HRSchedulingSystem.Forms.ServiceForm.resources
+C:\Users\amost\OneDrive\Bureau\BiometricApp2\BiometricApp\obj\Debug\net8.0-windows\HRSchedulingSystem.Forms.ShiftForm.resources
+C:\Users\amost\OneDrive\Bureau\BiometricApp2\BiometricApp\obj\Debug\net8.0-windows\HRSchedulingSystem.Forms.SocieteForm.resources
+C:\Users\amost\OneDrive\Bureau\BiometricApp2\BiometricApp\obj\Debug\net8.0-windows\HRSchedulingSystem.Forms.ViewScheduleForm.resources
+C:\Users\amost\OneDrive\Bureau\BiometricApp2\BiometricApp\obj\Debug\net8.0-windows\HRSchedulingSystem.MainForm.resources
+C:\Users\amost\OneDrive\Bureau\BiometricApp2\BiometricApp\obj\Debug\net8.0-windows\BiometricApp.csproj.GenerateResource.cache
+C:\Users\amost\OneDrive\Bureau\BiometricApp2\BiometricApp\obj\Debug\net8.0-windows\BiometricApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amost\OneDrive\Bureau\BiometricApp2\BiometricApp\obj\Debug\net8.0-windows\BiometricApp.AssemblyInfoInputs.cache
+C:\Users\amost\OneDrive\Bureau\BiometricApp2\BiometricApp\obj\Debug\net8.0-windows\BiometricApp.AssemblyInfo.cs
+C:\Users\amost\OneDrive\Bureau\BiometricApp2\BiometricApp\obj\Debug\net8.0-windows\BiometricApp.csproj.CoreCompileInputs.cache
+C:\Users\amost\OneDrive\Bureau\BiometricApp2\BiometricApp\obj\Debug\net8.0-windows\Biometri.139B0FD5.Up2Date
+C:\Users\amost\OneDrive\Bureau\BiometricApp2\BiometricApp\obj\Debug\net8.0-windows\BiometricApp.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp2\BiometricApp\obj\Debug\net8.0-windows\refint\BiometricApp.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp2\BiometricApp\obj\Debug\net8.0-windows\BiometricApp.pdb
+C:\Users\amost\OneDrive\Bureau\BiometricApp2\BiometricApp\obj\Debug\net8.0-windows\BiometricApp.genruntimeconfig.cache
+C:\Users\amost\OneDrive\Bureau\BiometricApp2\BiometricApp\obj\Debug\net8.0-windows\ref\BiometricApp.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp2\BiometricApp\obj\Debug\net8.0-windows\HRSchedulingSystem.Forms.PointageManuelForm.resources
+C:\Users\amost\OneDrive\Bureau\BiometricApp2\BiometricApp\bin\Debug\net8.0-windows\ClosedXML.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp2\BiometricApp\bin\Debug\net8.0-windows\ClosedXML.Parser.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp2\BiometricApp\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp2\BiometricApp\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.Framework.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp2\BiometricApp\bin\Debug\net8.0-windows\ExcelNumberFormat.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp2\BiometricApp\bin\Debug\net8.0-windows\RBush.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp2\BiometricApp\bin\Debug\net8.0-windows\SixLabors.Fonts.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp2\BiometricApp\bin\Debug\net8.0-windows\System.IO.Packaging.dll
+C:\Users\amost\OneDrive\Bureau\BiometricApp2\BiometricApp\obj\Debug\net8.0-windows\BiometricApp.Properties.Resources.resources
+C:\Users\Mostafa\Desktop\prv\SFE\SFE\BiometricApp2\BiometricApp\obj\Debug\net8.0-windows\BiometricApp.csproj.AssemblyReference.cache
+C:\Users\Mostafa\Desktop\prv\SFE\SFE\BiometricApp2\BiometricApp\obj\Debug\net8.0-windows\BiometricApp.csproj.ResolveComReference.cache
+C:\Users\Mostafa\Desktop\prv\SFE\SFE\BiometricApp2\BiometricApp\obj\Debug\net8.0-windows\HRSchedulingSystem.Forms.AbsenceForm.resources
+C:\Users\Mostafa\Desktop\prv\SFE\SFE\BiometricApp2\BiometricApp\obj\Debug\net8.0-windows\HRSchedulingSystem.Forms.AddDeviceForm.resources
+C:\Users\Mostafa\Desktop\prv\SFE\SFE\BiometricApp2\BiometricApp\obj\Debug\net8.0-windows\HRSchedulingSystem.Forms.AssignProgrammeForm.resources
+C:\Users\Mostafa\Desktop\prv\SFE\SFE\BiometricApp2\BiometricApp\obj\Debug\net8.0-windows\HRSchedulingSystem.Forms.AttendanceCollectionForm.resources
+C:\Users\Mostafa\Desktop\prv\SFE\SFE\BiometricApp2\BiometricApp\obj\Debug\net8.0-windows\HRSchedulingSystem.Forms.DepartementForm.resources
+C:\Users\Mostafa\Desktop\prv\SFE\SFE\BiometricApp2\BiometricApp\obj\Debug\net8.0-windows\HRSchedulingSystem.Forms.EmployeeForm.resources
+C:\Users\Mostafa\Desktop\prv\SFE\SFE\BiometricApp2\BiometricApp\obj\Debug\net8.0-windows\HRSchedulingSystem.Forms.PointageManuelForm.resources
+C:\Users\Mostafa\Desktop\prv\SFE\SFE\BiometricApp2\BiometricApp\obj\Debug\net8.0-windows\HRSchedulingSystem.Forms.ProgrammeForm.resources
+C:\Users\Mostafa\Desktop\prv\SFE\SFE\BiometricApp2\BiometricApp\obj\Debug\net8.0-windows\HRSchedulingSystem.Forms.ServiceForm.resources
+C:\Users\Mostafa\Desktop\prv\SFE\SFE\BiometricApp2\BiometricApp\obj\Debug\net8.0-windows\HRSchedulingSystem.Forms.ShiftForm.resources
+C:\Users\Mostafa\Desktop\prv\SFE\SFE\BiometricApp2\BiometricApp\obj\Debug\net8.0-windows\HRSchedulingSystem.Forms.SocieteForm.resources
+C:\Users\Mostafa\Desktop\prv\SFE\SFE\BiometricApp2\BiometricApp\obj\Debug\net8.0-windows\HRSchedulingSystem.Forms.ViewScheduleForm.resources
+C:\Users\Mostafa\Desktop\prv\SFE\SFE\BiometricApp2\BiometricApp\obj\Debug\net8.0-windows\HRSchedulingSystem.MainForm.resources
+C:\Users\Mostafa\Desktop\prv\SFE\SFE\BiometricApp2\BiometricApp\obj\Debug\net8.0-windows\BiometricApp.Properties.Resources.resources
+C:\Users\Mostafa\Desktop\prv\SFE\SFE\BiometricApp2\BiometricApp\obj\Debug\net8.0-windows\BiometricApp.csproj.GenerateResource.cache
+C:\Users\Mostafa\Desktop\prv\SFE\SFE\BiometricApp2\BiometricApp\obj\Debug\net8.0-windows\BiometricApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mostafa\Desktop\prv\SFE\SFE\BiometricApp2\BiometricApp\obj\Debug\net8.0-windows\BiometricApp.AssemblyInfoInputs.cache
+C:\Users\Mostafa\Desktop\prv\SFE\SFE\BiometricApp2\BiometricApp\obj\Debug\net8.0-windows\BiometricApp.AssemblyInfo.cs
+C:\Users\Mostafa\Desktop\prv\SFE\SFE\BiometricApp2\BiometricApp\obj\Debug\net8.0-windows\BiometricApp.csproj.CoreCompileInputs.cache
+C:\Users\Mostafa\Desktop\prv\SFE\SFE\BiometricApp2\BiometricApp\obj\Debug\net8.0-windows\BiometricApp.dll
+C:\Users\Mostafa\Desktop\prv\SFE\SFE\BiometricApp2\BiometricApp\obj\Debug\net8.0-windows\refint\BiometricApp.dll
+C:\Users\Mostafa\Desktop\prv\SFE\SFE\BiometricApp2\BiometricApp\obj\Debug\net8.0-windows\BiometricApp.pdb
