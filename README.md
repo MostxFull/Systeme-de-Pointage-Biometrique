@@ -79,7 +79,7 @@ graph TD
 ![i11](https://github.com/user-attachments/assets/304c00a4-5e09-411f-b52e-11405463f17b)
 
 
-## 🤝 Auteurs
+## By
 
 - **Mostafa** 
 - Projet de fin d’études – ESTG - 2025
