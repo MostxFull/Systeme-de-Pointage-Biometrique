@@ -1,12 +1,12 @@
 
-# 🕒 HR Scheduling & Biometric Attendance System
+# HR Scheduling & Biometric Attendance System
 
 Un système de pointage biométrique complet avec gestion des employés, planification des horaires et contrôle des accès. Développé en **C# WinForms** avec une architecture en **couches classiques**.
 
-## 📁 Structure du projet
+## Structure du projet
 
 ```
-📦 HRSchedulingSystem
+    HRSchedulingSystem
 ├── Data/
 │   └── DatabaseHelper.cs         # Connexion et exécution des requêtes SQL
 ├── Models/
@@ -28,7 +28,7 @@ Un système de pointage biométrique complet avec gestion des employés, planifi
 └── Program.cs                    # Point d'entrée de l'application
 ```
 
-## 🧱 Architecture
+## Architecture
 
 Le projet suit une architecture en **couches classiques** :
 
@@ -45,14 +45,19 @@ graph TD
     Models --> DAL
 ```
 
-## ✅ Fonctionnalités
+## Diagramme de classe
+
+<img width="808" height="751" alt="image" src="https://github.com/user-attachments/assets/92e9ce28-40b6-479a-856f-f0fc6285cd86" />
+
+
+## Fonctionnalités
 
 - 📌 Pointage biométrique via **SDK ZKTeco**
 - 👨‍💼 Gestion des employés, services, départements, sociétés
 - 🗓️ Planification d’horaires avec **deux shifts par jour**
 - 📊 Export de rapports en **PDF/Excel**
 
-## 🛠️ Technologies utilisées
+## Technologies utilisées
 
 - 💻 WinForms (.NET 8.0)
 - 🛢️ SQL Server 
@@ -60,13 +65,13 @@ graph TD
 - 📦 Dapper (accès base de données léger)
 - 📄 ClosedXML (exports Excel)
 
-## 🚀 Lancement
+## Lancement
 
 1. Ouvrir la solution dans **Visual Studio**.
 2. Configurer la chaîne de connexion SQL dans `DatabaseHelper.cs`.
 3. S'assurer que les DLLs du SDK **ZKTeco** sont présentes (`zkemkeeper.dll`).
 
-## 📷 Capture d'écran
+## Capture d'écran
 
 - 💻 Main Form:
 ![i1](https://github.com/user-attachments/assets/c8738ef0-5004-44d7-a144-ffa8e22b99c0)
@@ -78,7 +83,3 @@ graph TD
 
 - **Mostafa** 
 - Projet de fin d’études – ESTG - 2025
-
-## ⚖️ Licence
-
-Ce projet est privé pour usage académique uniquement.  
